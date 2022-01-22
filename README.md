@@ -8,4 +8,13 @@
  Python pemite acessar diversos gerenciadores como Oracle, Sqliter, MySQL, Postgresql e SQL Server. A seguir vou mostrar os primeiros códigos para criar uma conexão com o servidor do SQL Server.
  
  ```
- 
+ import pyodbc
+ ```
+```
+def return_connection_sql():
+    server = 'localhost'
+    database = 'My_database'
+    string_conexao = 'Driver={SQL Server Native Client 11.0};Server='+server+';Database='+database+';Trusted_Connection=yes;'
+    conexao = pyodbc.connect(string_conexao)
+    return conexao.cursor()
+```
