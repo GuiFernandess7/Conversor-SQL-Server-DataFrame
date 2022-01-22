@@ -18,3 +18,10 @@ def return_connection_sql():
     conexao = pyodbc.connect(string_conexao)
     return conexao.cursor()
 ```
+```
+response = return_connection_sql()
+try:
+    print(f'Conectado ao banco de dados com sucesso:{response}')
+except Exception as e:
+    print(e)
+```
