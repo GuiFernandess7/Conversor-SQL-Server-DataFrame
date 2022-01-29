@@ -1,4 +1,7 @@
 # PYODBC-SQL_Server
+
+## AVISO: Repositório ainda em desenvolvimento
+
  Nos últimos anos, a linguagem python tem se tornado uma das linguagens de programação mais populares e vem ganhando espaço nas grandes empresas. Sua eficiência em diversas áreas como linguagem de máquina (machine learning), criptomoedas, desenvolvimento de jogos e desenvolvimento web expandiu os horizontes para desenvolvedores profissionais e abriu portas para a entrada de novos programadores nesse mercado em ascensão. Contudo, sua fama começou dentro da área de ciência de dados e em processos de automação.
 
 <p align="center">
