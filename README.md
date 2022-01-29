@@ -27,6 +27,6 @@ except Exception as e:
 ```
  Nesse repositório se encontrarão projetos voltados para:
  
- * ** Acesso de banco de dados SQL Server e conversão para DataFrames Pandas
- * ** Conversão de dataframes para arquivos excel e criação de gráficos com matplotlib
- * ** Geração automatizada de arquivos excel por meio de novos bancos de dados
+ * ** Acesso de banco de dados SQL Server e conversão para DataFrames Pandas (scr)**
+ * ** Conversão de dataframes para arquivos excel e criação de gráficos com matplotlib (scr e Jupyter Notebook)**
+ * ** Geração automatizada de arquivos excel por meio de novos bancos de dados (scr)**
