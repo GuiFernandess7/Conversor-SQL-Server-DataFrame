@@ -52,9 +52,9 @@ def main():
         # print(all_tables)
 
         # ALTERE AQUI
-        query1 = conn.read_query('SELECT * FROM Person.Password', key)
+        #query1 = conn.read_query('SELECT * FROM Person.Password', key)
         #print(query1)
-        convert_to_excel_file(query1)
+        #convert_to_excel_file(query1)
         
     except Exception as E:
         print(f'Erro de leitura: {E}')
