@@ -28,8 +28,10 @@ try:
 except Exception as e:
     print(e)
 ```
- Nesse repositório se encontrarão projetos voltados para:
+ Esse repositório é voltado para:
  
- * **Acesso de banco de dados SQL Server e conversão para DataFrames Pandas (Acesse scr)**
+ * **Acesso ao banco de dados SQL Server e conversão para DataFrames Pandas (Acesse scr)**
  * **Conversão de dataframes para arquivos excel e criação de gráficos com matplotlib (scr e Jupyter Notebook)**
  * **Geração automatizada de arquivos excel por meio de novos bancos de dados (Acesse scr)**
+
+ Backup do banco de dados utilizado: https://bit.ly/3oaLJCm
