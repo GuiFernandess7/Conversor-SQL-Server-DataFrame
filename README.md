@@ -34,4 +34,4 @@ except Exception as e:
  * **Conversão de dataframes para arquivos excel e criação de gráficos com matplotlib (scr e Jupyter Notebook)**
  * **Geração automatizada de arquivos excel por meio de novos bancos de dados (Acesse scr)**
 
- Backup do banco de dados utilizado: https://bit.ly/3oaLJCm
+ Backup do banco de dados utilizado (AdventureWorks2017.bak): https://bit.ly/3oaLJCm
