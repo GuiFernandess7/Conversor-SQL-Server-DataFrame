@@ -32,6 +32,6 @@ except Exception as e:
  
  * **Acesso ao banco de dados SQL Server e conversão para DataFrames Pandas (Acesse scr)**
  * **Conversão de dataframes para arquivos excel e criação de gráficos com matplotlib (scr e Jupyter Notebook)**
- * **Geração automatizada de arquivos excel por meio de novos bancos de dados (Acesse scr)**
+ * **Automação de arquivos excel por meio de novos bancos de dados (Acesse scr)**
 
  Backup do banco de dados utilizado (AdventureWorks2017.bak): https://bit.ly/3oaLJCm
