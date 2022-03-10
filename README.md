@@ -8,7 +8,7 @@
   <img src="Img/pic01.png" >
 </p>
  
- Python pemite acessar diversos gerenciadores como Oracle, Sqliter, MySQL, Postgresql e SQL Server. A seguir vou mostrar os primeiros códigos para criar uma conexão com o servidor do SQL Server.
+ Python pemite acessar diversos gerenciadores como Oracle, Sqliter, MySQL, Postgresql e SQL Server. A seguir estão os primeiros códigos para criar uma conexão com o servidor do SQL Server.
  
  ```
  import pyodbc
